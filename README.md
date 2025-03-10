@@ -47,7 +47,7 @@ Ensure you have Python 3.9+ installed. You'll also need the following dependenci
    You can also check out `bidirectionalrnn.ipynb` for a detailed walkthrough of the training and evaluation process.  
 
 
-##🧠 Explanation of the Bidirectional RNN Used in IMDb Review Sentiment Analysis
+## 🧠 Explanation of the Bidirectional RNN Used in IMDb Review Sentiment Analysis
 In this project, a Bidirectional Recurrent Neural Network (BiRNN) with Long Short-Term Memory (LSTM) units is used to improve the performance of sentiment classification.
 
 **🔹 What is a Bidirectional RNN?**
